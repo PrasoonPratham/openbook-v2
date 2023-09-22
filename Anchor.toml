@@ -5,7 +5,7 @@ skip-lint = false
 openbook_v2 = "8qkavBpvoHVYkmPhu6QRpXRX39Kcop9uMXvZorBAz43o"
 
 [registry]
-url = "https://api.apr.dev"
+url = "https://staging-rpc.dev.eclipsenetwork.xyz"
 
 [provider]
 cluster = "Localnet"
